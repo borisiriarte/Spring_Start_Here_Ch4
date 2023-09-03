@@ -1,6 +1,6 @@
-package org.example.proxies;
+package org.example.E0_NoSpringApproach.proxies;
 
-import org.example.model.Comment;
+import org.example.E0_NoSpringApproach.model.Comment;
 
 public class EmailCommentNtificationProxy implements CommentNotificationProxy{
   @Override

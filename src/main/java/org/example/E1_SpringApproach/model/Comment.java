@@ -1,4 +1,4 @@
-package org.example.E0_NoSpringApproach.model;
+package org.example.E1_SpringApproach.model;
 
 public class Comment {
   private String author;

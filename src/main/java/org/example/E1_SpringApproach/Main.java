@@ -1,9 +1,9 @@
-package org.example.E0_NoSpringApproach;
+package org.example.E1_SpringApproach;
 
-import org.example.E0_NoSpringApproach.model.Comment;
-import org.example.E0_NoSpringApproach.proxies.EmailCommentNtificationProxy;
-import org.example.E0_NoSpringApproach.repositories.DBCommentRepository;
-import org.example.E0_NoSpringApproach.services.CommentService;
+import org.example.E1_SpringApproach.model.Comment;
+import org.example.E1_SpringApproach.proxies.EmailCommentNtificationProxy;
+import org.example.E1_SpringApproach.repositories.DBCommentRepository;
+import org.example.E1_SpringApproach.services.CommentService;
 
 public class Main {
   public static void main(String[] args) {

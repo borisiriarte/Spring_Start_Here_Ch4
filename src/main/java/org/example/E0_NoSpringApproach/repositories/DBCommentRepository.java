@@ -1,6 +1,6 @@
-package org.example.repositories;
+package org.example.E0_NoSpringApproach.repositories;
 
-import org.example.model.Comment;
+import org.example.E0_NoSpringApproach.model.Comment;
 
 public class DBCommentRepository implements CommentRepository{
 
