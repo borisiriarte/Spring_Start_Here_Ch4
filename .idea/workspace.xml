@@ -5,23 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a78a55-03cf-4614-93cb-65d92883e628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/model/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/proxies/CommentNotificationProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/proxies/EmailCommentNtificationProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/repositories/CommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/repositories/DBCommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/proxies/CommentNotificationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/proxies/CommentPushNotificationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/proxies/EmailCommentNtificationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/repositories/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/repositories/DBCommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions/services/CommentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/model/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/proxies/CommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/proxies/CommentNotificationProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/proxies/EmailCommentNtificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/proxies/EmailCommentNtificationProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/repositories/CommentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/repositories/DBCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/repositories/DBCommentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E0_NoSpringApproach/services/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adrian/Desktop/SpringStartHereCh4/src/main/java/org/example/E1_SpringApproach",
+    "last_opened_file_path": "/Users/adrian/Desktop/SpringStartHereCh4/src/main/java/org/example/E2_MultipleImplementationsAbstractions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach" />
     </key>
   </component>
@@ -95,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693701351955</updated>
-      <workItem from="1693701353024" duration="2131000" />
+      <workItem from="1693701353024" duration="3771000" />
     </task>
     <servers />
   </component>

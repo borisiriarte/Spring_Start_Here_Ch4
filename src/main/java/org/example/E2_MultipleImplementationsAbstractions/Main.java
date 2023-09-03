@@ -1,9 +1,7 @@
-package org.example.E1_SpringApproach;
+package org.example.E2_MultipleImplementationsAbstractions;
 
-import org.example.E1_SpringApproach.model.Comment;
-import org.example.E1_SpringApproach.proxies.EmailCommentNtificationProxy;
-import org.example.E1_SpringApproach.repositories.DBCommentRepository;
-import org.example.E1_SpringApproach.services.CommentService;
+import org.example.E2_MultipleImplementationsAbstractions.model.Comment;
+import org.example.E2_MultipleImplementationsAbstractions.services.CommentService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
