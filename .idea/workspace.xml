@@ -5,22 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a78a55-03cf-4614-93cb-65d92883e628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E0_NoAspectImplemented/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E0_NoAspectImplemented/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E0_NoAspectImplemented/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E0_NoAspectImplemented/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E1_AspectsApproach/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E1_AspectsApproach/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E1_AspectsApproach/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E1_AspectsApproach/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E1_AspectsApproach/services/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E3_AlterCallByChangingParametersOrReturnedValue/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E3_AlterCallByChangingParametersOrReturnedValue/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E3_AlterCallByChangingParametersOrReturnedValue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E3_AlterCallByChangingParametersOrReturnedValue/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E3_AlterCallByChangingParametersOrReturnedValue/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods/ToLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations/ToLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/SecurityAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/ToLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining/services/CommentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +65,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adrian/Desktop/SpringStartHereCh4/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue",
+    "last_opened_file_path": "/Users/adrian/Desktop/SpringStartHereCh4/src/main/java/org/example/A5/E6_Chaining",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,11 +81,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/A5/E6_Chaining" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/A5/E5_OtherAnnotations" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/A5/E4_InterceptingAnnotatedMethods" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/A5/E3_AlterCallByChanginParametersOrReturnedValue" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/A5/E2_AlteringParametersAndReturnValue" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/A5/E1_AspectsApproach" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/A4/E0_SingletonScopedBeans" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/E2_MultipleImplementationsAbstractions" />
-      <recent name="$PROJECT_DIR$/src/main/java/org/example/E1_SpringApproach" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.A4.E5_PrototypeMutability" />
@@ -108,7 +117,8 @@
       <workItem from="1693701353024" duration="4020000" />
       <workItem from="1693868211349" duration="6480000" />
       <workItem from="1693928602907" duration="140000" />
-      <workItem from="1693952300695" duration="6842000" />
+      <workItem from="1693952300695" duration="6960000" />
+      <workItem from="1694036523275" duration="4211000" />
     </task>
     <servers />
   </component>
